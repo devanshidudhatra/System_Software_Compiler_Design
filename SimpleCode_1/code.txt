@@ -1,0 +1,8 @@
+int main ( ) {
+    a = 10 ;
+    b = 11 ;
+    printf ( "Hello" ) ;
+    return 0 ;
+}
+
+
